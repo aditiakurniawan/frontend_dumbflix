@@ -1,0 +1,24 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "password": "admin",
+    "role": "admin",
+    "fullName": "Admin Ganteng",
+    "status": "Active",
+    "gender": "Male",
+    "phone": "08123456789",
+    "address": "Perumahan Admin Ganteng Maksimal",
+    "image": "/assets/images/profile2.svg"
+  },
+  {
+    "email": "member@gmail.com",
+    "password": "member",
+    "role": "member",
+    "fullName": "Member Ganteng",
+    "status": "Active",
+    "gender": "Male",
+    "phone": "0811111111111",
+    "address": "Perumahan Member Ganteng Maksimal",
+    "image": "/assets/images/profile.svg"
+  }
+]

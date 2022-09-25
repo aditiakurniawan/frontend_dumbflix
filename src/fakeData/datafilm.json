@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "The GodFather",
+    "description": "Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal. Although Michael tries to maintain a normal relationship with his wife, Kay (Diane Keaton), he is drawn deeper into the family business.",
+    "image": "/assets/images/film/movie-1.png",
+    "year": "1972",
+    "category": "movies",
+    "trailerId": "UaVTIH8mujA"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "description": "With the help of allies Lt. Jim Gordon (Gary Oldman) and DA Harvey Dent (Aaron Eckhart), Batman (Christian Bale) has been able to keep a tight lid on crime in Gotham City. But when a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.",
+    "image": "/assets/images/film/movie-2.png",
+    "year": "2008",
+    "category": "movies",
+    "trailerId": "EXeTwQWrcwY"
+  },
+  {
+    "id": 3,
+    "title": "Avengers : Endgame",
+    "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+    "image": "/assets/images/film/movie-3.png",
+    "year": "2019",
+    "category": "movies",
+    "trailerId": "TcMBFSGVi1c"
+  },
+  {
+    "id": 4,
+    "title": "Joker",
+    "description": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.",
+    "image": "/assets/images/film/movie-4.png",
+    "year": "2019",
+    "category": "movies",
+    "trailerId": "zAGVQLHvwOY"
+  },
+  {
+    "id": 5,
+    "title": "Gisaengchung",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "image": "/assets/images/film/movie-5.png",
+    "year": "2019",
+    "category": "movies",
+    "trailerId": "w_0KJAzyUJc"
+  },
+  {
+    "id": 6,
+    "title": "Chernobly",
+    "description": "The Chernobyl accident in 1986 was the result of a flawed reactor design that was operated with inadequately trained personnel. The resulting steam explosion and fires released at least 5% of the radioactive reactor core into the environment, with the deposition of radioactive materials in many parts of Europe.",
+    "image": "/assets/images/film/movie-6.png",
+    "year": "2019",
+    "category": "movies",
+    "trailerId": ""
+  },
+  {
+    "id": 7,
+    "title": "Serigala Terakhir",
+    "description": "Film Serigala Terakhir bercerita tentang perseteruan dua geng mafia di pinggiran kota Jakarta. Dikisahkan sebelumnya, dipinggiran kota Jakarta terdapat kelompok remaja laki-laki yang terdiri dari Ale (Ali Fathir Muchtar), Jarot (Vino G. Bastian), Lukman (Dion Wiyoko), Sadat (Ali Syakieb) dan Jago (Dallas Pratama)",
+    "image": "/assets/images/film/movie-7.png",
+    "year": "2009",
+    "category": "movies",
+    "trailerId": "s9APLXM9Ei8"
+  },
+  {
+    "id": 8,
+    "title": "Grave of the Fireflies",
+    "description": "A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.",
+    "image": "/assets/images/film/movie-8.png",
+    "year": "1988",
+    "category": "movies",
+    "trailerId": "4vPeTSRd580"
+  },
+  {
+    "id": 9,
+    "title": "My Neighbor Totoro",
+    "description": "This acclaimed animated tale by director Hayao Miyazaki follows schoolgirl Satsuke and her younger sister, Mei, as they settle into an old country house with their father and wait for their mother to recover from an illness in an area hospital. As the sisters explore their new home, they encounter and befriend playful spirits in their house and the nearby forest, most notably the massive cuddly creature known as Totoro.",
+    "image": "/assets/images/film/movie-9.png",
+    "year": "1988",
+    "category": "movies",
+    "trailerId": "92a7Hj0ijLs"
+  },
+  {
+    "id": 10,
+    "title": "A Quiet Place: Part II",
+    "description": "Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence. Forced to venture into the unknown, they quickly realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+    "image": "/assets/images/film/movie-10.png",
+    "year": "2020",
+    "category": "movies",
+    "trailerId": "BpdDN9d9Jio"
+  },
+  {
+    "id": 11,
+    "title": "Frozen 2",
+    "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled. After hearing a mysterious voice call out to her, Elsa travels to the enchanted forests and dark seas beyond her kingdom -- an adventure that soon turns into a journey of self-discovery.",
+    "image": "/assets/images/film/movie-11.png",
+    "year": "2019",
+    "category": "movies",
+    "trailerId": "Zi4LMpSDccc"
+  },
+  {
+    "id": 12,
+    "title": "Suicide Squad",
+    "description": "Figuring they're all expendable, a U.S. intelligence officer decides to assemble a team of dangerous, incarcerated supervillains for a top-secret mission. Now armed with government weapons, Deadshot (Will Smith), Harley Quinn (Margot Robbie), Captain Boomerang, Killer Croc and other despicable inmates must learn to work together. Dubbed Task Force X, the criminals unite to battle a mysterious and powerful entity, while the diabolical Joker (Jared Leto) launches an evil agenda of his own.",
+    "image": "/assets/images/film/movie-12.png",
+    "year": "2016",
+    "category": "movies",
+    "trailerId": "CmRih_VtVAs"
+  },
+  {
+    "id": 13,
+    "title": "The Witcher",
+    "description": "Set on a fictional, medieval-inspired landmass known as the Continent, The Witcher explores the legend of Geralt of Rivia, Yennefer of Vengerberg and Princess Ciri. It stars Henry Cavill, Anya Chalotra, and Freya Allan. The first season, consisting of eight episodes, released on Netflix on December 20, 2019.",
+    "image": " /assets/images/film/tv-1.png",
+    "year": "2019",
+    "category": "tv-series",
+    "trailerId": "ndl1W4ltcmg"
+  },
+  {
+    "id": 14,
+    "title": "Persona 3 The Movie",
+    "description": "Makoto Yuki learns there is a period of time hidden between the minute of midnight called the Dark Hour, a time when monsters called Shadows appear. He soon learns how to fight against Shadows that threaten the world from the tower of Tartarus.",
+    "image": " /assets/images/film/tv-2.png",
+    "year": "2016",
+    "category": "tv-series",
+    "trailerId": "r7-M90PNk5E"
+  },
+  {
+    "id": 15,
+    "title": "Game Of Thrones",
+    "description": "Plot Summary (6) Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia. In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms.",
+    "image": " /assets/images/film/tv-3.png",
+    "year": "2011",
+    "category": "tv-series",
+    "trailerId": "DotnJ7tTA34"
+  },
+  {
+    "id": 16,
+    "title": "Money Heist",
+    "description": "'The House of Paper') is a Spanish heist crime drama television series created by Álex Pina. The series traces two long-prepared heists led by the Professor (Álvaro Morte), one on the Royal Mint of Spain, and one on the Bank of Spain, told from the perspective of one of the robbers, Tokyo (Úrsula Corberó).",
+    "image": " /assets/images/film/tv-4.png",
+    "year": "2017",
+    "category": "tv-series",
+    "trailerId": "_InqQJRqGW4"
+  },
+  {
+    "id": 17,
+    "title": "Touch",
+    "description": "Touch by Jus Accardo is an action-packed story of a group of individuals with special powers and the man trying to control them all. Deznee Cross is oblivious to her father's plan to control all Sixes or people with powers until Kale appears in her life and circumstances thrust Deznee into a world of danger.",
+    "image": " /assets/images/film/tv-5.png",
+    "year": "2020",
+    "category": "tv-series",
+    "trailerId": "dvQ_qJYZ-7A"
+  },
+  {
+    "id": 18,
+    "title": "Arrow",
+    "description": "Arrow follows billionaire playboy Oliver Queen (Stephen Amell), who claimed to have spent five years shipwrecked on Lian Yu, a mysterious island in the North China Sea, before returning home to Starling City (later renamed Star City) to fight crime and corruption as a secret vigilante whose weapon of choice is a bow ...",
+    "image": " /assets/images/film/tv-6.png",
+    "year": "2012",
+    "category": "tv-series",
+    "trailerId": "2yrviapP5uY"
+  },
+  {
+    "id": 19,
+    "title": "You",
+    "description": "The story follows bookshop manager Joe Goldberg (played by Penn Badgley), a narcissistic and sociopathic killer who falls in love with aspiring author Beck (Elizabeth Lail). Through truly disturbing methods, Joe starts a relationship with Beck but it all goes terribly downhill from the off.",
+    "image": " /assets/images/film/tv-7.png",
+    "year": "2018",
+    "category": "tv-series",
+    "trailerId": "ga1m0wjzscU"
+  },
+  {
+    "id": 20,
+    "title": "Castlevania",
+    "description": "Castlevania, released for the NES in 1986 is a typical platform game in which the player takes the role of Simon Belmont, a descendant of the Belmont clan, a family of vampire hunters. He travels to Dracula's castle, Castlevania, and fights his way through the castle annihilating Dracula himself and the castle.",
+    "image": " /assets/images/film/tv-8.png",
+    "year": "2017",
+    "category": "tv-series",
+    "trailerId": "m3jNb7IdJHQ"
+  },
+  {
+    "id": 21,
+    "title": "The OA",
+    "description": "The series is about Prairie Johnson, an adopted young woman who resurfaces after having been missing for seven years. Upon her return, Prairie calls herself the OA (for original angel), has scars on her back, and can see, despite having been blind when she disappeared.",
+    "image": " /assets/images/film/tv-9.png",
+    "year": "2016",
+    "category": "tv-series",
+    "trailerId": "DvHJtez2IlY"
+  },
+  {
+    "id": 22,
+    "title": "Locke & Key",
+    "description": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+    "image": " /assets/images/film/tv-10.png",
+    "year": "2020",
+    "category": "tv-series",
+    "trailerId": "3v0eblxriQw"
+  },
+  {
+    "id": 23,
+    "title": "Reply 1988",
+    "description": "Reply 1988 is a drama focusing on five childhood friends- the bubbly Deok-sun, the grumpy Jung-hwan, the comedian Dong-ryeong, the innocent kid Sun-woo and the reserved one Choi Taek. Their lives intertwine together to create their own little world. Reply 1988 divides its focus between the teens and their parents.",
+    "image": " /assets/images/film/tv-11.png",
+    "year": "2015",
+    "category": "tv-series",
+    "trailerId": "Yh165aGvdPQ"
+  },
+  {
+    "id": 24,
+    "title": "Panji Manusia Millenium",
+    "description": "Panji Manusia Millenium merupakan sebuah sinetron yang ditayangkan RCTI dari tahun 1999 hingga tamat pada tahun 2001.dan tayang di RCTI pada jam 19:30",
+    "image": " /assets/images/film/tv-12.png",
+    "year": "1999",
+    "category": "tv-series",
+    "trailerId": "g1_rI5mCBIw"
+  }
+]

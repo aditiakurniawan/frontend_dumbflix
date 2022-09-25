@@ -1,0 +1,44 @@
+[
+  {
+    "users": "Surya Ganteng",
+    "bukti": "bukti1.jpg",
+    "remaining": "26 / Hari",
+    "status": "Active",
+    "payment": "Approve"
+  },
+  {
+    "users": "Adit Ganteng",
+    "bukti": "bukti2.jpg",
+    "remaining": "69 / Hari",
+    "status": "Active",
+    "payment": "Approve"
+  },
+  {
+    "users": "Ilham",
+    "bukti": "bukti3.jpg",
+    "remaining": "0 / Hari",
+    "status": "Not Active",
+    "payment": "Cancel"
+  },
+  {
+    "users": "Kurniawan",
+    "bukti": "bukti4.jpg",
+    "remaining": "0 / Hari",
+    "status": "Not Active",
+    "payment": "Pending"
+  },
+  {
+    "users": "Windah",
+    "bukti": "bukti5.jpg",
+    "remaining": "0 / Hari",
+    "status": "Not Active",
+    "payment": "Pending"
+  },
+  {
+    "users": "Basudara",
+    "bukti": "bukti6.jpg",
+    "remaining": "0 / Hari",
+    "status": "Not Active",
+    "payment": "Pending"
+  }
+]
