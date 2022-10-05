@@ -22,7 +22,7 @@ function Home() {
       {/* <h5>Tv Series</h5> */}
       <CardList title="TV Series" category="tv-series" limit={6} />
       {/* <h5>Movies</h5> */}
-      <CardList title="Movies" category="movies" limit={6} />
+      {/* <CardList title="Movies" category="movies" limit={6} /> */}
     </>
   );
 }

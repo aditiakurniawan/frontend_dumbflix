@@ -14,7 +14,7 @@ function ListFilmAdmin() {
   return (
     <>
       <NavbarComponent />
-      <div className="bg-black text-white" style={{ height: "100%" }}>
+      <div className="bg-black text-white" style={{ height: "100vh" }}>
         <div className="p-5">
           <Row>
             <Col md={4}>
@@ -74,7 +74,7 @@ function ListFilmAdmin() {
             {/* <h5>Tv Series</h5> */}
             <CardList title="TV Series" category="tv-series" limit={12} />
             {/* <h5>Movies</h5> */}
-            <CardList title="Movies" category="movies" limit={12} />
+            {/* <CardList title="Movies" category="movies" limit={12} /> */}
           </>
         ) : params["category"] == "tv-series" ? (
           <CardList title="TV Series" category="tv-series" limit={12} />
